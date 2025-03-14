@@ -194,8 +194,9 @@ c) Apenas II é verdadeira.
 
 d) Apenas I é verdadeira.
 
-<h2>MINHA RESPOSTA DA 7):</h2>
-<p> JUSTIFICATIVA:  </p> <br> <br>
+<h2>MINHA RESPOSTA DA 7): A)</h2>
+<p> JUSTIFICATIVA: A afirmação I está certa porque a classe Funcionario, de fato, herda da classe Pessoa, por meio de extends, podendo acessar os atributos nome e idade por meio do método super(). Já a afirmação II está correta, uma vez que a sobrescrita do método apresentar() na classe Funcionario é, realmente, realizada, mostrando o atributo de salário. No entanto, esse método também mostra o nome e a idade, que, como mencionado anteriormente, são atributos herdados da classe Pessoa por meio do super(). Por fim, a III está completamente incorreta, já que o JavaScript suporta sim herança de classes.</p> <br> <br>
+
 
 ______
 
